@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sasasan97
-- 👀 I’m interested in Frontend Dev
-- 🌱 I’m currently learning React.js
+- 👀 I’m interested in Frontend Dev and UX/UI Design
+- 🌱 I’m currently learning Bootstrap
 - 📫 How to reach me ...
 
 <!---
