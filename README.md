@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sasasan97
 - 👀 I’m interested in Frontend Dev and UX/UI Design
-- 🌱 I’m currently learning Bootstrap
+- 🌱 I’m currently learning Java, MySQL & MongoDB
 - 📫 How to reach me ...
 
 <!---
